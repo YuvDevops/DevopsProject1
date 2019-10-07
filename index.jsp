@@ -1,6 +1,3 @@
-<%=”hello DevOps class!!!”%>
-
-
 <html>
 <head>
   <title>Echoing HTML Request Parameters</title>
